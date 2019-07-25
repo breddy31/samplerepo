@@ -1,0 +1,23 @@
+m,mCmaMmAaa
+
+alll
+
+
+for RSIL Application
+common mobile services: 2 builds- april 25th and 26th(added build script)
+
+m
+
+
+NextGen_Server
+
+e5aa9938beb742735c5e7fce1159b2c929081db5
+
+
+"$schema": "https://raw.githubusercontent.com/silverbulleters/sonarqube-inject-vsc/master/schemas/sonarlint.json",
+    "serverId": "NextGen_Server",
+    "serverUrl":"https://gbsjenkins.ap-south.containers.mybluemix.net/sonar/",
+    "projectKey":"Nextgen"
+
+
+shwetha.bhaktharaj@accenture.com.
